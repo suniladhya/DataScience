@@ -1,16 +1,13 @@
 # DataScience
-1. Python
+* Free Resources:
+[[Foundation of Data Analysis]](https://www.classcentral.com/course/edx-ut-7-01x-foundations-of-data-analysis-2244),
+[[Quora]](https://www.quora.com/profile/Shubham-M-7)
 
-Free Resources:
-[Foundation of Data Analysis](https://www.classcentral.com/course/edx-ut-7-01x-foundations-of-data-analysis-2244)
-
-https://www.quora.com/profile/Shubham-M-7
 _Data Science is the systematic analysis of data within a scientific frame work_
 
 ## Data science Methodology
-Helps analyst to keep track of phase of analysis one is performing.
-
-It should be emphasised that the dsm is iterative and adaptive.
+* Helps analyst to keep track of phase of analysis one is performing.
+* It should be emphasised that the dsm is iterative and adaptive.
 ## Common Data Science tasks
 ### Description
     Describe patterns and trends lying within the Data.
