@@ -1,3 +1,4 @@
+*Learning python is fun, with [Kaggle](https://www.kaggle.com/learn/python) it becomes more addictive!...*
 # Python Learning
 * Links [[Python.Org]](https://www.python.org/about/gettingstarted/)
 ## Installation
@@ -16,4 +17,5 @@ using Comments, Importing packages, Executing Commands, Saving output, Getting d
 * Renaming packages helps in using shorthand notation
 * Saving output in python
 csv_data = pd.read_csv("C:/Users/sadhya/Documents/Data Science/Website Data Sets/bank_marketing_training")
+
 
